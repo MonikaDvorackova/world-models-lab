@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this reference implementation, please cite this software repository."
+type: software
+authors:
+  - family-names: "Dvořáčková"
+    given-names: "Monika"
+title: "world-models-lab"
+repository-code: "https://github.com/MonikaDvorackova/world-models-lab"
+license: MIT
