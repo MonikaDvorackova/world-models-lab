@@ -45,3 +45,7 @@ MIT. Contributions should include a focused regression test and an explanation o
 ## Run without local setup
 
 The repository is self-tested by GitHub Actions. To run validation remotely, open [CI](https://github.com/MonikaDvorackova/world-models-lab/actions/workflows/ci.yml), select **Run workflow**, choose `main`, and inspect the test job. You do not need to run Python, Rust, or C++ commands from your Mac. For local execution, clone this repository and run commands from its root (not `~`).
+
+## Project showcase and feedback
+
+Part of a public [trustworthy AI and reliable ML research engineering portfolio](https://github.com/MonikaDvorackova/MonikaDvorackova#research-engineering-projects). For project scope, test coverage and limitations, see this README and the repository's GitHub Actions. Reproducible issues and narrowly scoped contributions are welcome. These reference implementations are not certified production systems.
