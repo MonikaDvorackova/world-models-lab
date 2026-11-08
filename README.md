@@ -41,3 +41,7 @@ This is a linear state-space system-identification baseline. States are directly
 ## License
 
 MIT. Contributions should include a focused regression test and an explanation of changed assumptions.
+
+## Run without local setup
+
+The repository is self-tested by GitHub Actions. To run validation remotely, open [CI](https://github.com/MonikaDvorackova/world-models-lab/actions/workflows/ci.yml), select **Run workflow**, choose `main`, and inspect the test job. You do not need to run Python, Rust, or C++ commands from your Mac. For local execution, clone this repository and run commands from its root (not `~`).
